@@ -1,9 +1,25 @@
 body {
     background: blue;
     color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 0 0 20px 0;
+}
+
+p {
+    font-size: 20px;
+    margin: 0;
+}
+p+p {
+    margin-top: 5px;
 }
 
 img {
+    margin-top: 20px;
+    border-radius: 10px;
     width: 200px;
     height: 200px;
 }
