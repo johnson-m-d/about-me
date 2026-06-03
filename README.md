@@ -15,7 +15,7 @@ My creative studio, **Michael D. Johnson Art**, explores raw natural spaces and 
 
 ### 🌐 Establish Connection
 * **Master Studio Registry & Fine Art Portfolio:** [michaeldjohnsonart.com](https://michaeldjohnsonart.com)
-* **LinkedIn Network:** [Connect via Professional Profile](https://www.linkedin.com/](https://www.linkedin.com/in/johnsonmd)
+* **LinkedIn Network:** [Connect via Professional Profile](https://www.linkedin.com/in/johnsonmd)
 * **Code & Architecture Solutions:** Right here on [GitHub](https://github.com/johnson-m-d)
 
 > "I don't just take photos or write scripts; I build systems."
